@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "149842956182",
+    "project_id": "aha-app-b4199",
+    "storage_bucket": "aha-app-b4199.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149842956182:android:bc0e19c6fa5b364dc9d7b7",
+        "android_client_info": {
+          "package_name": "com.example.aha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149842956182-9s87qmiko4l1h7f7m3f1464j1nqlt1i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoN4XHP6TAwiXdX_rwIE93wQNYpe3TZR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149842956182-9s87qmiko4l1h7f7m3f1464j1nqlt1i8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
